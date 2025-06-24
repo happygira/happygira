@@ -14,3 +14,7 @@
       width="95%" alt="activity graph">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=happygira&&style=flat-square" align="center" />
+</div> 
